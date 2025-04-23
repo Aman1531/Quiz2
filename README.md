@@ -1,7 +1,7 @@
 # Quiz2
 
 This app uses FastApi for speed , scalability and developer ease 
-
+pip install -r requirements.txt
 uvicorn main:app --reload
 
 will run the app on localhost:8000
